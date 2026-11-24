@@ -1,10 +1,10 @@
 <!-- Perfil de Padilha-BR. Imagens animadas vêm de serviços públicos que leem só o nome de usuário. -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0d1117,50:0f5132,100:3ccf91&text=Gabriel%20%C2%B7%20Padilha-BR&fontColor=e6efea&fontSize=44&fontAlignY=36&desc=Agentes%20de%20IA%20rodando%20no%20celular%2C%20sem%20root&descAlignY=58&descSize=18&animation=fadeIn" width="100%" alt="Gabriel · Padilha-BR — agentes de IA rodando no celular, sem root" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0d1117,50:5b0f8f,100:bc13fe&text=Gabriel%20%C2%B7%20Padilha-BR&fontColor=e6efea&fontSize=44&fontAlignY=36&desc=Agentes%20de%20IA%20rodando%20no%20celular%2C%20sem%20root&descAlignY=58&descSize=18&animation=fadeIn" width="100%" alt="Gabriel · Padilha-BR — agentes de IA rodando no celular, sem root" />
 
 <p align="center">
   <a href="https://github.com/Padilha-BR">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2800&pause=900&color=3CCF91&center=true&vCenter=true&width=640&lines=Hermes+Agent+100%25+no+Android+via+Termux;Docker+no+celular+sem+root+(udocker+%2B+proot);Medir+no+aparelho+antes+de+prometer;Automa%C3%A7%C3%A3o+%C2%B7+Linux+%C2%B7+Emula%C3%A7%C3%A3o+%C2%B7+Cloud" alt="Hermes Agent 100% no Android via Termux · Docker no celular sem root · Medir no aparelho antes de prometer" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2800&pause=900&color=bc13fe&center=true&vCenter=true&width=640&lines=Hermes+Agent+100%25+no+Android+via+Termux;Docker+no+celular+sem+root+(udocker+%2B+proot);Medir+no+aparelho+antes+de+prometer;Automa%C3%A7%C3%A3o+%C2%B7+Linux+%C2%B7+Emula%C3%A7%C3%A3o+%C2%B7+Cloud" alt="Hermes Agent 100% no Android via Termux · Docker no celular sem root · Medir no aparelho antes de prometer" />
   </a>
 </p>
 
@@ -42,8 +42,8 @@ PWA e um *watchdog* o mantém vivo quando o Android suspende o Termux.
 
 `Android 16 e 17` · `arm64` · `PWA` · `sem root`
 
-![stars](https://img.shields.io/github/stars/Padilha-BR/hermes-agent-android-phone-only?style=flat-square&color=3ccf91&label=%E2%AD%90)
-![lang](https://img.shields.io/github/languages/top/Padilha-BR/hermes-agent-android-phone-only?style=flat-square&color=0f5132)
+![stars](https://img.shields.io/github/stars/Padilha-BR/hermes-agent-android-phone-only?style=flat-square&color=bc13fe&label=%E2%AD%90)
+![lang](https://img.shields.io/github/languages/top/Padilha-BR/hermes-agent-android-phone-only?style=flat-square&color=5b0f8f)
 ![license](https://img.shields.io/github/license/Padilha-BR/hermes-agent-android-phone-only?style=flat-square&color=555)
 
 </td>
@@ -57,8 +57,8 @@ proot, além de ferramentas para o agente ler e controlar páginas web. Traz o d
 
 `udocker` · `proot` · `Chromium headless` · `CDP`
 
-![stars](https://img.shields.io/github/stars/Padilha-BR/docker-termux?style=flat-square&color=3ccf91&label=%E2%AD%90)
-![lang](https://img.shields.io/github/languages/top/Padilha-BR/docker-termux?style=flat-square&color=0f5132)
+![stars](https://img.shields.io/github/stars/Padilha-BR/docker-termux?style=flat-square&color=bc13fe&label=%E2%AD%90)
+![lang](https://img.shields.io/github/languages/top/Padilha-BR/docker-termux?style=flat-square&color=5b0f8f)
 ![license](https://img.shields.io/github/license/Padilha-BR/docker-termux?style=flat-square&color=555)
 
 </td>
@@ -90,8 +90,8 @@ A lição que mais economiza tempo: comece pelo nível 1. "Página moderna" não
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Termux-000000?style=for-the-badge&logo=gnometerminal&logoColor=3ccf91" alt="Termux" />
-  <img src="https://img.shields.io/badge/proot%20%2F%20udocker-0f5132?style=for-the-badge&logo=docker&logoColor=white" alt="proot e udocker" />
+  <img src="https://img.shields.io/badge/Termux-000000?style=for-the-badge&logo=gnometerminal&logoColor=bc13fe" alt="Termux" />
+  <img src="https://img.shields.io/badge/proot%20%2F%20udocker-5b0f8f?style=for-the-badge&logo=docker&logoColor=white" alt="proot e udocker" />
   <img src="https://img.shields.io/badge/Agentes%20de%20IA-1f6feb?style=for-the-badge&logo=probot&logoColor=white" alt="Agentes de IA" />
   <img src="https://img.shields.io/badge/Automa%C3%A7%C3%A3o-6e40c9?style=for-the-badge&logo=selenium&logoColor=white" alt="Automação" />
 </p>
@@ -101,12 +101,12 @@ A lição que mais economiza tempo: comece pelo nível 1. "Página moderna" não
 ### 📊 Atividade
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Padilha-BR&show_icons=true&hide_border=true&bg_color=0d1117&title_color=3ccf91&icon_color=3ccf91&text_color=c9d1d9&locale=pt-br" alt="Estatísticas do GitHub de Padilha-BR" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Padilha-BR&layout=compact&hide_border=true&bg_color=0d1117&title_color=3ccf91&text_color=c9d1d9&locale=pt-br" alt="Linguagens mais usadas" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Padilha-BR&show_icons=true&hide_border=true&bg_color=0d1117&title_color=bc13fe&icon_color=bc13fe&text_color=c9d1d9&locale=pt-br" alt="Estatísticas do GitHub de Padilha-BR" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Padilha-BR&layout=compact&hide_border=true&bg_color=0d1117&title_color=bc13fe&text_color=c9d1d9&locale=pt-br" alt="Linguagens mais usadas" />
 </p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Padilha-BR/Padilha-BR/output/snake-dark.svg" alt="Cobrinha comendo o gráfico de contribuições" />
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:3ccf91,50:0f5132,100:0d1117&section=footer" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:bc13fe,50:5b0f8f,100:0d1117&section=footer" width="100%" alt="" />
